@@ -4,10 +4,10 @@
 
 ### Two main types of software were used to complete our Analysis
 
-### 1) R Studio
-#### Packages used: dplyr, etc.
-### 2) Python
-#### Packages used: add here
+###   1) R Studio
+####   Packages used: dplyr, etc.
+###   2) Python
+####   Packages used: add here
 
 ### Both Mac and Windows platforms were used to conduct our analysis
 
