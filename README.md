@@ -5,7 +5,7 @@
 ### Two main types of software were used to complete our Analysis
 
 ###   1) R Studio
-####   Packages used: dplyr, etc.
+####   Packages used: dplyr, ggplot2, tm, stringr
 ###   2) Python
 ####   Packages used: add here
 
