@@ -3,15 +3,11 @@
 ## Section 1: Software and Platform
 
 ### Two main types of software were used to complete our Analysis
+
 ### 1) R Studio
+#### Packages used: dplyr, etc.
 ### 2) Python
-
-### Packages used within R Studio
-### - dplyr
-### - etc.
-
-### Packages used within Python
-### - add here
+#### Packages used: add here
 
 ### Both Mac and Windows platforms were used to conduct our analysis
 
