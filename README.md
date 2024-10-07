@@ -15,20 +15,20 @@
 ### In this repository, we have 3 main folders:
 #### 1) SCRIPTS - This folder includes our source code for the project with detailed comments outlining the actions being taken to clean and analyze the dataset.
 
-#### CleaningSentimentAnalysis: code to clean the data, calculate sentiment scores, and form datasets for analysis. Additionally includes code that generates graphs located in output.
-#### InitialEDA: code to perform Exploratory Data Analysis using python. 
+##### CleaningSentimentAnalysis: code to clean the data, calculate sentiment scores, and form datasets for analysis. Additionally includes code that generates graphs located in output.
+##### InitialEDA: code to perform Exploratory Data Analysis using python. 
 
 #### 2) DATA - This folder holds our raw data, as well as our finalized data that was used to drive analysis.
 
-#### Data Appendix: description of sentimentdf variables and descriptive graphs. 
-#### drugsComTest_raw: raw text data of drug reviews.
-#### lessbc: top 10 least reviewed birth control drug brands (over threshold of 20) separated from original dataset.
-#### sentimentdf: sentiment score added to initial dataset filtered by birth control. 
-#### toptenbc: top 10 most reviewed birth control drug brands separated from original dataset. 
+##### Data Appendix: description of sentimentdf variables and descriptive graphs. 
+##### drugsComTest_raw: raw text data of drug reviews.
+##### lessbc: top 10 least reviewed birth control drug brands (over threshold of 20) separated from original dataset.
+##### sentimentdf: sentiment score added to initial dataset filtered by birth control. 
+##### toptenbc: top 10 most reviewed birth control drug brands separated from original dataset. 
 
 #### 3) OUTPUT - This folder includes the output of our analysis, including charts and graphs to support or oppose our hypothesis. 
 
-#### Project 1 Output: file holding graphs produced from CleaningSentimentAnalysis file.
+##### Project 1 Output: file holding graphs produced from CleaningSentimentAnalysis file.
 
 ## Section 3: Instructions for Reproducing Results
 #### To reproduce the results of our analysis, the first step is to install the packages necessary in R. Next, we read in our dataset, included in the DATA folder of this repository.
