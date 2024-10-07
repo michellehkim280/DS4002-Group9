@@ -7,7 +7,7 @@
 ###   1) R Studio
 ####   Packages used: dplyr, ggplot2, tm, stringr
 ###   2) Python
-####   Packages used: add here
+####   Packages used: pandas, matplotlib.pyplot
 
 ### Both Mac and Windows platforms were used to conduct our analysis
 
