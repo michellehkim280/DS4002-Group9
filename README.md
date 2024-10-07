@@ -21,10 +21,10 @@
 #### 2) DATA - This folder holds our raw data, as well as our finalized data that was used to drive analysis.
 
 ##### Data Appendix: description of sentimentdf variables and descriptive graphs. 
-##### drugsComTest_raw: raw text data of drug reviews.
-##### lessbc: top 10 least reviewed birth control drug brands (over threshold of 20) separated from original dataset.
+##### drugsComTest_raw: raw text data of drug reviews; intitial dataset from Kaggle.
+##### lessbc: top 10 least reviewed birth control drug brands (over threshold of 20) separated from sentimentdf dataset.
 ##### sentimentdf: sentiment score added to initial dataset filtered by birth control. 
-##### toptenbc: top 10 most reviewed birth control drug brands separated from original dataset. 
+##### toptenbc: top 10 most reviewed birth control drug brands separated from sentimentdf dataset. 
 
 #### 3) OUTPUT - This folder includes the output of our analysis, including charts and graphs to support or oppose our hypothesis. 
 
